@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 AI Chatbot Portfolio Project
 
 Author: Hamid Rafique
@@ -119,3 +120,11 @@ Interactive frontend with Vue 3 + Bootstrap
 Production-grade features like dark mode, multi-user sessions, chat memory, and responsive UI
 
 Perfect for adding to your portfolio and resume.
+=======
+# ai-chatbot-portfolio
+Production-ready AI Chatbot built with FastAPI, Vue 3, and Groq LLM.
+>>>>>>> 008247f8696eeb6ba36b38017b510c65b334c94d
+
+## Screenshot
+
+![AI Chatbot UI](screenshots/chatbot.png)
