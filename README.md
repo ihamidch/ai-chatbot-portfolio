@@ -128,3 +128,9 @@ Production-ready AI Chatbot built with FastAPI, Vue 3, and Groq LLM.
 ## Screenshot
 
 ![AI Chatbot UI](screenshots/chatbot.png)
+
+## Screenshot
+
+<p align="center">
+  <img src="screenshots/chatbot.png" width="700">
+</p>
