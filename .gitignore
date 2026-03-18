@@ -1,0 +1,11 @@
+# Ignore the virtual environment
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Ignore private API keys
+.env
+
+# Ignore local database files
+faiss_index/
